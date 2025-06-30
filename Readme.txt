@@ -45,3 +45,16 @@ Husna Satira
 Mahasiswi UIN Suska Riau  
 Email: husnasatira2026@gmail.com
 Linkedln : www.linkedin.com/in/husnasatira
+
+---
+
+## 📌 Template Credit
+
+Website ini dikembangkan dengan menggunakan template dari:
+
+- **Template Name**: UpConstruction  
+- **Author**: [BootstrapMade.com](https://bootstrapmade.com)  
+- **URL**: [https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/](https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/)  
+- **License**: [BootstrapMade License](https://bootstrapmade.com/license/)
+
+Penyesuaian isi, struktur, dan fitur dilakukan oleh Husna Satira sebagai bagian dari proyek Kerja Praktik di UPT SDN 016 Bangkinang Kota.
